@@ -10,6 +10,7 @@ A collection of minimalist Ansible playbooks for automating server setups, based
 - [Docker on Ubuntu 18.04](https://github.com/do-community/ansible-playbooks/tree/master/docker_ubuntu1804)
 
 _\*the Initial Server Setup should be your starting point for fresh servers._
+- we do that
 
 ## Playbook Structure
 
